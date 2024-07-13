@@ -12,3 +12,4 @@
 012 Making an API Call With Redux Thunks
 013 The Redux DevTools
 014 What is Redux Toolkit (RTK)
+015 Creating the Store With RTK
