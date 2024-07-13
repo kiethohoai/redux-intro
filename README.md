@@ -9,3 +9,6 @@
 009 Dispatching Actions from Our React App
 010 The Legacy Way of Connecting Components to Redux
 011 Redux Middleware and Thunks
+012 Making an API Call With Redux Thunks
+013 The Redux DevTools
+014 What is Redux Toolkit (RTK)
