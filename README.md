@@ -8,3 +8,4 @@
 008 Back to React! Connecting our Redux App With React
 009 Dispatching Actions from Our React App
 010 The Legacy Way of Connecting Components to Redux
+011 Redux Middleware and Thunks
