@@ -3,3 +3,4 @@
 003 Creating a Reducer Bank Account
 004 Creating a Redux Store
 005 Working With Action Creators
+006 Adding More State Customer
