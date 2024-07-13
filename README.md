@@ -5,3 +5,4 @@
 005 Working With Action Creators
 006 Adding More State Customer
 007 Professional Redux File Structure State Slices
+008 Back to React! Connecting our Redux App With React
