@@ -15,3 +15,4 @@
 015 Creating the Store With RTK
 016 Creating the Account Slice
 017 Back to Thunks
+018 Creating the Customer Slice
